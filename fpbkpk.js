@@ -57,6 +57,6 @@ KPK ${num1} dan ${num2} = ${resultKPK}`)
 
 }
 
-fpb_kpk(100,50) //test, hasilnya FPB = 2 dan KPK = 20.
+fpb_kpk(100,50) //test, hasilnya FPB = 50 dan KPK = 100.
 
 //thank you
